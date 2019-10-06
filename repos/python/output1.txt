@@ -1,0 +1,25 @@
+Python 3.7.4 (default, Jul  9 2019, 00:06:43)
+[GCC 6.3.0 20170516] on linux
+Aircraft coordinates:
+x-coordinate is: [1, 2, 3, 4, 5, 6, 7, 8, 9]
+y-coordinate is: [9, 8, 7, 6, 5, 4, 3, 2, 1]
+
+Aircraft 1 coordinates:
+x-coordinate is: [1]
+y-coordinate is: [2]
+
+Aircraft 2 coordinates:
+x-coordinate is: [3]
+y-coordinate is: [4]
+
+Aircraft 3 coordinates:
+x-coordinate is: [5]
+y-coordinate is: [6]
+
+Aircraft 4 coordinates:
+x-coordinate is: [7]
+y-coordinate is: [8]
+
+Aircraft 5 coordinates:
+x-coordinate is: [9]
+y-coordinate is: [10]
